@@ -5,8 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IT3B_Kostky"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="330">
     <Grid>
-
+        <Label Content="Label" HorizontalAlignment="Left" Margin="104,25,0,0" VerticalAlignment="Top" Background="#FFA2CDD0" Height="46" Width="46"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="184,25,0,0" VerticalAlignment="Top" Background="#FFA2CDD0" Height="46" Width="46"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="25,25,0,0" VerticalAlignment="Top" Background="#FFA2CDD0" Height="46" Width="46"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="25,98,0,0" VerticalAlignment="Top" Background="#FFA2CDD0" Height="46" Width="46"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="104,98,0,0" VerticalAlignment="Top" Background="#FFA2CDD0" Height="46" Width="46"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="184,98,0,0" VerticalAlignment="Top" Background="#FFA2CDD0" Height="46" Width="46"/>
+        <Button Content="Hod" HorizontalAlignment="Left" Margin="104,286,0,0" VerticalAlignment="Top" Height="58" Width="101"/>
     </Grid>
 </Window>
